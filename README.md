@@ -1,1 +1,1 @@
-<img width="30px" src="./media/images/image_name.png" alt="image_name png" />
+<img src="./ER model - Page 1.png" alt="image_name png" />
